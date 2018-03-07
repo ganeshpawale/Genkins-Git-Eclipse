@@ -46,5 +46,7 @@ public class Upload_File_Using_Robot_Class {
 		robot.keyPress(KeyEvent.VK_ENTER);
 		robot.keyRelease(KeyEvent.VK_ENTER);
 		
+		System.out.println("Demo....");
+		
 	}
 }
